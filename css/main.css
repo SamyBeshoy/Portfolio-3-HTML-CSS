@@ -259,6 +259,7 @@ body {
     margin-bottom: 2em;
     overflow-y: auto;
     overflow-x: hidden;
+    text-align: center;
 }
 @media (max-width: 767px) {
     #blog .boxs .box {
