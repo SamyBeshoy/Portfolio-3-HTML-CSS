@@ -83,6 +83,11 @@ body {
     padding:0.8em;
     border-bottom: 1px solid black;
 }
+@media (max-width: 767px) {
+    .header {
+        border-bottom: none;
+    }
+}
 .header .logo img {
     width: 7em;
 }
